@@ -2,8 +2,8 @@
 /**
  * Write a description of CodonCount here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Tom Courtney
+ * @version Feb 13, 2017
  */
 
 import edu.duke.*;
