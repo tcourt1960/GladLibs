@@ -26,8 +26,7 @@ public void buildCodonMap(int start, String dna){
 }
     
 public String getMostCommonCodon(){
-    
+    return "";
 }
-
 
 }
