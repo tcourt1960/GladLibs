@@ -1,7 +1,7 @@
 
 /**
  * Write a description of CodonCount here.
- * 
+ * Duke Java Programming Coursera course
  * @author Tom Courtney
  * @version Feb 13, 2017
  */
